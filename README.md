@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnil884
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swapniljana33@gmail.com
 
